@@ -1,5 +1,7 @@
 # Grocery Bud
 
+Live Demo: https://saleemkaseer.github.io/Grocery-Bud/
+
 A simple Grocery List web application built with HTML, CSS, and JavaScript.
 
 ## Features

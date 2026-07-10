@@ -19,12 +19,6 @@ A simple Grocery List web application built with HTML, CSS, and JavaScript.
 * JavaScript (ES6)
 * Local Storage API
 
-## How to Run
-
-1. Download or clone the repository.
-2. Open the project folder.
-3. Open `index.html` in your browser.
-
 ## Learning Purpose
 
 This project was created to practice JavaScript fundamentals, DOM manipulation, event handling, and working with the Local Storage API.
